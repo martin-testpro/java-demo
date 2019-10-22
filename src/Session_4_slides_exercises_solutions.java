@@ -1,5 +1,5 @@
 
-public class Main {
+public class Session_4_slides_exercises_solutions {
     public static void main(String[] args) {
 
         // add all the numbers from 1 to 1000.
