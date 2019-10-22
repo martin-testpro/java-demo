@@ -1,8 +1,3 @@
 # java-demo
-my first repo
-this is my first repo!!!
-how are you?
+/src contains solutions to the exercises in the slides.
 
-changed on my computer!!
-
-change on mybranch
